@@ -1,0 +1,1 @@
+az deployment group create --resource-group 'rg-az204-dev-eus' --template-file main.bicep
